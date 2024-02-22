@@ -1,8 +1,8 @@
 <template>
-     <nav class="navbar  navbar-expand-lg py-3 m-0 w-100 ">
-          <div class="container-fluid px-0 w-100 align-items-center">
+     <nav class="navbar  navbar-expand-lg py-3 m-0 w-100  bg-primary">
+          <div class="container-fluid px-3 w-100 align-items-center">
             <a class="navbar-brand " href="#">
-              <img src="./images/logo/logo.png " width="auto" height="auto" alt="Logo" loading="lazy"
+              <img src="../assets/images/logo.png " width="auto" height="auto" alt="Logo" loading="lazy"
                 class=" px-auto px-md-5 object-fit-cover">
             </a> <button class="navbar-toggler border-0 p-1 navbar-button" type="button" data-bs-toggle="offcanvas"
               data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -19,28 +19,36 @@
                 <button type="button" class="btn-close " data-bs-dismiss="offcanvas" aria-label="Close"></button>
               </div>
               <div class="offcanvas-body">
-                <ul class="navbar-nav justify-content-end flex-grow-1 pe-5 ">
+                <ul class="navbar-nav justify-content-center flex-grow-1  ">
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14 " href="#">HOME</a>
+                    <a class="nav-link fw-bold  " href="#">HOME</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14" href="#">ABOUT</a>
+                    <a class="nav-link fw-bold " href="#">ABOUT</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14" href="#">Services</a>
+                    <a class="nav-link fw-bold " href="#">Services</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14" href="#">Project</a>
+                    <a class="nav-link fw-bold " href="#">Project</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14" href="#">Blog</a>
+                    <a class="nav-link fw-bold " href="#">Blog</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold f-14" href="#">Contact</a>
+                    <a class="nav-link fw-bold " href="#">Contact</a>
                   </li>
                 </ul>
+                <div class="navbar-nav justify-content-end flex-grow-1  ">
+                    <a href="#" class="btn bg-primary px-3 px-md-4 py-2 border border-black rounded-pill ">log in</a>
+                    <a href="#" class="btn bg-black text-white px-3 px-md-4 py-2 border border-black rounded-pill ">Join us</a>
+
+                    </div>
+
               </div>
             </div>
           </div>
         </nav>
 </template>
+<script setup>
+</script>
