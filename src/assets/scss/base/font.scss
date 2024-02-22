@@ -41,3 +41,33 @@
     font-size: 170px;
   }
   
+  @media screen and (max-width:1200px) {
+    .f-170{
+      font-size: 140px;
+    }
+  }
+  @media screen and (max-width:991px) {
+    .f-170{
+      font-size: 105px;
+    }
+  }
+  @media screen and (max-width:767px) {
+    .f-170{
+      font-size: 80px;
+    }
+  }
+  @media screen and (max-width:576px) {
+    .f-170{
+      font-size: 65px;
+    }
+  }
+  @media screen and (max-width:476px) {
+    .f-170{
+      font-size: 55px;
+    }
+  }
+  @media screen and (max-width:392px) {
+    .f-170{
+      font-size: 42px;
+    }
+  }
