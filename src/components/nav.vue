@@ -1,9 +1,9 @@
 <template>
      <nav class="navbar  navbar-expand-lg  m-0 w-100  bg-primary">
-          <div class="container-fluid px-3 w-100 align-items-center">
+          <div class="container px-3 px-sm-0 w-100 align-items-center">
             <a class="navbar-brand " href="#">
               <img src="../assets/images/logo.png " width="auto" height="auto" alt="Logo" loading="lazy"
-                class=" px-auto px-md-5 object-fit-cover">
+                class="  object-fit-cover">
             </a> <button class="navbar-toggler border-0 p-1 navbar-button" type="button" data-bs-toggle="offcanvas"
               data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list"
@@ -31,12 +31,6 @@
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
                     <a class="nav-link  " href="#">Project</a>
-                  </li>
-                  <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link  " href="#">Services</a>
-                  </li>
-                  <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link  " href="#">Contact</a>
                   </li>
                 </ul>
                 <div class="navbar-nav justify-content-end flex-grow-1 gap-2 ">

@@ -1,0 +1,39 @@
+.bar{
+    margin:0 auto;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+  }
+  .bar:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+  .bar:focus-within{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline:none;
+  }
+  .searchbar{
+    height:45px;
+    border-radius:30px;
+    font-size:16px;
+    padding-left: 10px;
+    
+  }
+  .searchbar:focus-within{
+    box-shadow: none;
+    outline:none;
+  }
+  .voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+  }
+  .next-button{
+    height: 38px;
+    width: 38px;
+  }
+  .w-5{
+    width: 5%;
+  }
+  .w-15{
+    width: 15%;;
+  }
