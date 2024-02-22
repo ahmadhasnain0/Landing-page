@@ -1,5 +1,5 @@
 <template>
-     <nav class="navbar  navbar-expand-lg py-3 m-0 w-100  bg-primary">
+     <nav class="navbar  navbar-expand-lg  m-0 w-100  bg-primary">
           <div class="container-fluid px-3 w-100 align-items-center">
             <a class="navbar-brand " href="#">
               <img src="../assets/images/logo.png " width="auto" height="auto" alt="Logo" loading="lazy"
@@ -21,30 +21,28 @@
               <div class="offcanvas-body">
                 <ul class="navbar-nav justify-content-center flex-grow-1  ">
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold  " href="#">HOME</a>
+                    <a class="nav-link   " href="#">Find freelancers</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold " href="#">ABOUT</a>
+                    <a class="nav-link  " href="#">Find job</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold " href="#">Services</a>
+                    <a class="nav-link  " href="#">Solution</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold " href="#">Project</a>
+                    <a class="nav-link  " href="#">Project</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold " href="#">Blog</a>
+                    <a class="nav-link  " href="#">Services</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-2">
-                    <a class="nav-link fw-bold " href="#">Contact</a>
+                    <a class="nav-link  " href="#">Contact</a>
                   </li>
                 </ul>
-                <div class="navbar-nav justify-content-end flex-grow-1  ">
+                <div class="navbar-nav justify-content-end flex-grow-1 gap-2 ">
                     <a href="#" class="btn bg-primary px-3 px-md-4 py-2 border border-black rounded-pill ">log in</a>
                     <a href="#" class="btn bg-black text-white px-3 px-md-4 py-2 border border-black rounded-pill ">Join us</a>
-
                     </div>
-
               </div>
             </div>
           </div>
