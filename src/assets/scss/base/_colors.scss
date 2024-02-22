@@ -1,0 +1,16 @@
+
+:root {
+    --primary:  #A8BBBA;
+   // --secondary: #A8BBBA;
+    // --ternary: #f6f7fb;
+    // --blue: #112e41;
+    // --dark-blue: #10233A;
+    // --white:#fff;
+    // --light-gray:#e5e6ea;
+}
+
+// background-colors
+
+.bg-primary{
+background-color: var(--primary) !important;
+}
