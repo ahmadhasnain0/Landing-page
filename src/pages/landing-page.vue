@@ -5,6 +5,7 @@
     <Talent />
     <Choose />
     <Experience/>
+    <Pages/>
 </template>
 
 <script setup>
@@ -14,5 +15,7 @@ import Services from "@/src/components/popular-services.vue";
 import Talent from "@/src/components/talent.vue";
 import Choose from "@/src/components/choose-us.vue";
 import Experience from "@/src/components/experience.vue";
+import Pages from "@/src/components/footer.vue";
+
 
 </script>

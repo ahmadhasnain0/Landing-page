@@ -1,17 +1,16 @@
 <template>
-  <div class="container-fluid white pb-5">
+  <div class="container-fluid bg-white pb-5">
     <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
         <div class="col-12 col-md-6">
-            
           <div class="row">
             <div class="col-12 justify-conten-end">
-            <img
+              <img
                 src="../assets/images/experience/ratting.png"
                 width="150px"
                 height="50px"
                 alt="pic"
-                class="my-1 float-end "
+                class="my-1 float-end"
               />
             </div>
             <div class="col d-none d-lg-flex">
@@ -244,7 +243,6 @@
             craftsmanship, or any creation is often a testament to the skill,
             dedication, and creativity of its creator.
           </div>
-
           <a
             href="#"
             class="btn bg-black px-3 px-md-4 py-2 text-white border-0 rounded-pill f-14 float-start mt-3"
