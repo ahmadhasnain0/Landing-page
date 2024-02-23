@@ -1,6 +1,13 @@
 <template>
-  <div class="container-fluid white pb-5">
-    <div class="container px-3 px-sm-0 w-100 align-items-center">
+  <div class="container-fluid white pb-5 px-0">
+    <img
+            src="../assets/images/choose-us/design.png"
+            width="auto"
+            height="auto"
+            alt="choose us pic"
+            class="position-absolute d-none d-lg-flex"
+          />
+              <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
         <div class="col-12 justify-content-center text-center">
           <div>
@@ -91,7 +98,7 @@
                   <h1 class="fw-bolder text-uppercase text-black f-52 mt-3">
                     What our customer says
                   </h1>
-                  <div class="justify-content-start d-flex w-50 float-start">
+                  <div class="justify-content-start d-flex w-50 float-start mt-4">
                     <a
                       href="#"
                       class="btn bg-black mx-1 border border-black rounded-circle circled"

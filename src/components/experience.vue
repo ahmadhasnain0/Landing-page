@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid bg-white pb-5">
+  <div class="container-fluid bg-white pb-5 px-0">
     <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
         <div class="col-12 col-md-6">
@@ -252,5 +252,17 @@
         </div>
       </div>
     </div>
+
+    <img
+            src="../assets/images/experience/design.png"
+            width="auto"
+            height="auto"
+            alt="choose us pic"
+            class=" d-none d-md-flex float-end mt-m70"
+          />
   </div>
 </template>
+<script setup>
+
+import "@/src/assets/scss/components/_experience.scss";
+</script>

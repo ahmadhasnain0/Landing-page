@@ -1,14 +1,18 @@
 <template>
-  <div class="container-fluid bg-black pb-5 text-white py-5">
+  <div class="container-fluid bg-black  text-white pt-5">
     <div class="container px-3 px-sm-0 w-100 align-items-center">
       <div class="row">
-        <div class="col-6 col-md-4 justify-content-center">
+        <div class="col-6 col-md-4 justify-content-center pb-3 pb-md-0">
           <img src="../assets/images/logo-white.png" />
           <div>
             <p class="mt-2">
               A freelancers web portal connect bussiness with freelancers, help
               in hiring and project collaboration
             </p>
+            <a href="#" class="fa fa-facebook mx-1"></a>
+<a href="#" class="fa fa-twitter mx-1"></a>
+<a href="#" class="fa fa-instagram mx-1"></a>
+<a href="#" class="fa fa-linkedin mx-1"></a>
           </div>
         </div>
         <div class="col-6 col-md-2 ">
@@ -58,3 +62,6 @@
     </div>
   </div>
 </template>
+<script setup>
+import "@/src/assets/scss/components/_footer.scss";
+</script>

@@ -125,7 +125,7 @@
           </div>
 
           <div class="row rounded-top">
-            <div class="col-6 col-lg-3 px-0 mx-0 border-0 order-1">
+            <div class="col-6 col-lg-3 px-0 mx-0 border-0 order-2 order-lg-1">
               <img
                 src="../assets/images/popular-services/img-3.png"
                 width="100%"
@@ -135,7 +135,7 @@
               />
             </div>
             <div
-              class="col-6 col-lg-3 p-2 p-md-4 pt-3 mx-0 border border-grayed order-2"
+              class="col-6 col-lg-3 p-2 p-md-4 pt-3 mx-0 border border-grayed order-1 order-lg-2"
             >
               <h4 class="fw-bolder text-black text-uppercase">Graphi design</h4>
               <a

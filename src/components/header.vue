@@ -35,27 +35,27 @@
             </div>
             <div class="col-11 px-0">
               <div class="row px-2 mt-2 ">
-                <div class="col-3">
-                  <p>Popular Skills:</p>
+                <div class="col-4 col-sm-3">
+                  <p class="text-nowrap f-18">Popular Skills:</p>
                 </div>
-                <div class="col-3">
+                <div class="col-4 col-sm-3 px-1">
                   <a
                     href="#"
-                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill"
-                    > database</a
+                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill text-nowrap"
+                    > Graphics</a
                   >
                 </div>
-                <div class="col-3">
+                <div class="col-4 col-sm-3 px-1">
                   <a
                     href="#"
-                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill"
-                    >database </a
+                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill text-nowrap"
+                    >UI design </a
                   >
                 </div>
-                <div class="col-3">
+                <div class="col-4 col-sm-3 px-1">
                   <a
                     href="#"
-                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill"
+                    class="btn bg-secondary px-3 px-md-4 py-1 border-0 rounded-pill text-nowrap"
                     >database</a
                   >
                 </div>
@@ -94,11 +94,49 @@
           </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 d-none d-lg-inline">
+        <div class="col-12 col-md-6 d-none d-lg-inline px-0">
             
-<img src="../assets/images/header/header-pic-removebg-preview.png" width="100%" height="100%" alt="header-pic" class="header-pic position-absolute">
+<img src="../assets/images/header/pic-header.png" width="100%" height="100%" alt="header-pic" class="header-pic position-absolute">
 
+<div class="card rounded-5 bg-light-gray w-50 float-end mt-150">
+            <div class="card-body p-3 pt-1 pb-0" >
+              <div class="w-100 float-start">
+                    <img
+                      src="../assets/images/header/profile.png"
+                      width="auto"
+                      height="auto"
+                      alt="pic"
+                      class="my-3 float-start me-2"
+                    />
+                    <div class="ps-5 mt-4">@jenny</div>
+                    <h6 class="fw-bold text-uppercase  mb-0">UX/UI Designer</h6>
+                  </div>
+                  <hr class="w-100">
+                  <div class="w-100 float-start">
+                    <img
+                      src="../assets/images/header/completed-project.png"
+                      width="auto"
+                      height="auto"
+                      alt="pic"
+                      class=" float-start me-2"
+                    />
+                    <div class="ps-5 mt-2"><span class="fw-bold">80+</span> project completed</div>
 
+                  </div>
+                  <div class="w-100 float-start">
+                    <img
+                      src="../assets/images/header/hour.png"
+                      width="auto"
+                      height="auto"
+                      alt="pic"
+                      class=" float-start my-3 me-2"
+                    />
+                    <div class="ps-5 mt-4">
+                      <span class="fw-bold">$30</span> per hour</div>
+                  </div>
+
+            </div>
+          </div>
 
         </div>
       </div>

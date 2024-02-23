@@ -32,12 +32,25 @@
     width: 38px;
   }
   .header-pic{
-    width: 500px;
+    width: 650px;
     height:600px;
-    margin-left:0;
-    margin-top: -100px;
+    margin-left:-100px;
+    margin-top: -180px;
 
   }
   .checked {
     color: orange;
+  }
+  .mt-150{
+    margin-top: 100px;
+  }
+  @media screen and (max-width:1100px)
+  {
+    .header-pic{
+      width: 600px;
+      height:600px;
+      margin-left:-100px;
+      margin-top: -150px;
+  
+    }
   }
