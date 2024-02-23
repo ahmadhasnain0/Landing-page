@@ -1,7 +1,7 @@
 
 :root {
     --primary:  #AFC3C3;
-   // --secondary: #A8BBBA;
+    --secondary: #DFEBEB;
     // --ternary: #f6f7fb;
     // --blue: #112e41;
     // --dark-blue: #10233A;
@@ -14,3 +14,6 @@
 .bg-primary{
 background-color: var(--primary) !important;
 }
+.bg-secondary{
+    background-color: var(--secondary) !important;
+    }
