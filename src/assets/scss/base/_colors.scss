@@ -2,7 +2,7 @@
 :root {
     --primary:  #AFC3C3;
     --secondary:rgb(207,219,219);
-    // --ternary: #f6f7fb;
+     --ternary: rgb(191,207,207);
     // --blue: #112e41;
     // --dark-blue: #10233A;
     // --white:#fff;
@@ -17,3 +17,6 @@ background-color: var(--primary) !important;
 .bg-secondary{
     background-color: var(--secondary) !important;
     }
+ .bg-ternary{
+        background-color: var(--ternary) !important;
+        }
