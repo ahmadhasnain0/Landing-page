@@ -43,6 +43,9 @@
   .f-12{
     font-size: 12px;
   }
+  .f-62{
+    font-size: 62px;
+  }
   
   @media screen and (max-width:1200px) {
     .f-170{
@@ -53,24 +56,38 @@
     .f-170{
       font-size: 105px;
     }
+    .f-62{
+      font-size: 48px;
+    }
   }
   @media screen and (max-width:767px) {
     .f-170{
       font-size: 80px;
+    }
+    .f-62{
+      font-size: 38px;
     }
   }
   @media screen and (max-width:576px) {
     .f-170{
       font-size: 65px;
     }
+   
   }
   @media screen and (max-width:476px) {
     .f-170{
       font-size: 55px;
+    }
+    .f-62{
+      font-size: 34px;
     }
   }
   @media screen and (max-width:392px) {
     .f-170{
       font-size: 42px;
     }
+    .f-62{
+      font-size: 28px;
+    }
+    
   }
