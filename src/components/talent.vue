@@ -5,7 +5,7 @@
 
         <div class="col-12">
 <img src="../assets/images/talent/talent-pic.png" width="100%" height="100%" alt="talent-pic" class="object-fit-contain">
-<div class="card rounded-5 bg-primary" style="margin-top:-100px">
+<div class="card rounded-5 bg-primary mt-m10" >
       <div class="card-body p-3 pb-0">
         <div class="row">
             <div class="col-12 col-lg-6 ">
@@ -32,3 +32,6 @@ Find Outstandin sportmanship. </h1>
     </div>
   </div>
 </template>
+<script setup>
+import "@/src/assets/scss/components/_talent.scss";
+</script>
