@@ -2,6 +2,11 @@
 
 
 
-.mt-m10{
-    margin-top:-100px
+.mt-m30{
+    margin-top:-30px
+}
+@media screen and (max-width:991px) {
+    .mt-m30{
+        margin-top:-20px
+    }
 }
