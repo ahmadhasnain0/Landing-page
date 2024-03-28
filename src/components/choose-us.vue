@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid white pb-5 px-0">
     <img
-            src="../assets/images/choose-us/design.png"
+            src="../../src/assets/images/choose-us/design.png"
             width="auto"
             height="auto"
             alt="choose us pic"
@@ -24,7 +24,7 @@
         </div>
         <div class="col-12 col-lg-6 d-none d-lg-inline">
           <img
-            src="../assets/images/choose-us/choose us.png"
+            src="../../src/assets/images/choose-us/choose us.png"
             width="100%"
             height="100%"
             alt="choose us pic"
@@ -39,7 +39,7 @@
                     <div class="col-2 d-none d-md-inline"></div>
                     <div class="col-12 col-md-10 rounded-4 py-3">
                       <img
-                        src="../assets/images//choose-us/collabration.png"
+                        src="../../src/assets/images//choose-us/collabration.png"
                         class="float-start me-3"
                       />
                       <h6 class="fw-bold text-uppercase">
@@ -52,7 +52,7 @@
                     </div>
                     <div class="col-12 col-md-10 bg-secondary rounded-4 py-3">
                       <img
-                        src="../assets/images//choose-us/support.png"
+                        src="../../src/assets/images//choose-us/support.png"
                         width="auto"
                         height="auto"
                         alt="support"
@@ -73,7 +73,7 @@
 
                     <div class="col-12 col-md-10 rounded-4 py-3">
                       <img
-                        src="../assets/images//choose-us/secure.png"
+                        src="../../src/assets/images//choose-us/secure.png"
                         class="float-start me-3"
                       />
                       <h6 class="fw-bold text-uppercase">
@@ -103,7 +103,7 @@
                       href="#"
                       class="btn bg-black mx-1 border border-black rounded-circle circled"
                       ><img
-                        src="../assets/images/popular-services/svg/left-arrow.svg"
+                        src="../../src/assets/images/popular-services/svg/left-arrow.svg"
                         width="100%"
                         height="100%"
                         alt="pic"
@@ -112,7 +112,7 @@
                       href="#"
                       class="btn bg-white mx-1 border border-black rounded-circle circled"
                       ><img
-                        src="../assets/images/popular-services/svg/right-arrow.svg"
+                        src="../../src/assets/images/popular-services/svg/right-arrow.svg"
                         width="100%"
                         height="100%"
                         alt="pic"
@@ -124,7 +124,7 @@
                   >
                     <a href="#" class="btn mt-3 mx-0 px-0 border-0"
                       ><img
-                        src="../assets/images/choose-us/crul-arrow.png"
+                        src="../../src/assets/images/choose-us/crul-arrow.png"
                         width="100%"
                         height="100%"
                         alt="pic"
@@ -133,7 +133,7 @@
                 </div>
                 <div class="col-12 col-lg-6 py-0 mt-3">
                   <img
-                    src="../assets/images/choose-us/quatations.png"
+                    src="../../src/assets/images/choose-us/quatations.png"
                     width="auto"
                     height="auto"
                     alt="pic"
@@ -148,7 +148,7 @@
                   </div>
                   <div class="w-50 float-start">
                     <img
-                      src="../assets/images/choose-us/profile.png"
+                      src="../../src/assets/images/choose-us/profile.png"
                       width="auto"
                       height="auto"
                       alt="pic"
@@ -158,7 +158,7 @@
                     <div class="ps-5">CEO at Cakar</div>
                   </div>
                   <img
-                    src="../assets/images/choose-us/logo-cakar.png"
+                    src="../../src/assets/images/choose-us/logo-cakar.png"
                     width="auto"
                     height="auto"
                     alt="pic"
