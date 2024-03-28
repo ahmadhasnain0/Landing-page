@@ -73,7 +73,7 @@
 
                     <div class="col-12 col-md-10 rounded-4 py-3">
                       <img
-                        src="@/src/assets/images//choose-us/secure.png"
+                        src="@/src/assets/images/choose-us/secure.png"
                         class="float-start me-3"
                       />
                       <h6 class="fw-bold text-uppercase">
